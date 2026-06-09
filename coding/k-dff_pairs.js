@@ -9,7 +9,6 @@ const calculateKDiffPairs = (nums, k) => {
     }
     return count
 }
-
 // how do we handle when k == 0
 // we can use a frequency map to count the occurrences of each number
 // and then count how many numbers appear more than once

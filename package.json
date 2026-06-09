@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sahil101/typescript-practice#readme",
   "devDependencies": {
+    "@types/node": "^25.9.2",
     "typescript": "^5.3.3"
   }
 }
